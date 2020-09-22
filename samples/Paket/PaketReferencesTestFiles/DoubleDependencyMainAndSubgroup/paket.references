@@ -1,0 +1,8 @@
+LibTestCM1
+
+group Test1
+	LibTestCM1
+
+group Test2
+	xunit
+  

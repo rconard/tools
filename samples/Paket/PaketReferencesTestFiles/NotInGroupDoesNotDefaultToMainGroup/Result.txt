@@ -1,0 +1,3 @@
+ Paket failed with
+  -> Error for D:\Git\tools\samples\Paket\paket.references: Package LibTestCM1 was not found in group Test2 of the pake
+  t.lock file.

@@ -1,0 +1,17 @@
+source https://api.nuget.org/v3/index.json
+
+
+nuget NUnit
+nuget LibTestCM1 == 3.0.0
+nuget Newtonsoft.Json == 12.0.2
+
+group Test1
+	source https://api.nuget.org/v3/index.json
+
+	nuget xunit == 2.4.1
+	nuget LibTestCM1 == 1.0.0
+
+group Test2
+	source https://api.nuget.org/v3/index.json
+
+	nuget xunit == 2.4.0

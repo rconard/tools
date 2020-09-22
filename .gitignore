@@ -1,0 +1,40 @@
+# paket.exe
+samples/Paket/.paket/paket.exe
+
+# paket packages
+samples/Paket/packages/
+
+# obj files
+samples/Paket/TestProject/obj/*
+
+# packet lock file
+samples/Paket/paket.lock
+
+# Build Results
+*_i.c
+*_p.c
+*.ilk
+*.dll
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.scc
+*.g.cs
+
+

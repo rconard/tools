@@ -1,0 +1,2 @@
+Each dependency from each group is used. 
+The default transitive dependency is ignored. 
